@@ -1,7 +1,8 @@
-- 👋 Olá, eu sou o @LeonardoHSantos
-- 👀 Estou interessado em projetos para análise de dados e desenvolvimento web com Django Framework.
-- 🌱 Atualmente estou me aprofundando no desenvolvimento web com Django.
-- 📫 Fale comigo pelo Whatsapp (41) 9 8841-2653
+- 👋 Olá, eu sou o @LeonardoHSantos, desenvolvedor Python Full Stack.
+- 🌱 Atualmente desenvolvo soluções para empresas que precisam de sistemas web, automações, processamento de dados e integrações com apis e outros serviços.
+- 📫 Fale comigo:
+- Whatsapp (41) 9 8841-2653
+- E-mail: contato@demandareal.com.br
 
 <!---
 LeonardoHSantos/LeonardoHSantos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
